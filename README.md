@@ -1,1 +1,2 @@
-# CNN-465-
+# CNN 
+# Activation Function -(Relu, Sigmoid, Leaky-Relu)
